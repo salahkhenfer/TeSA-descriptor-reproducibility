@@ -1,0 +1,86 @@
+{
+  "field": [
+    "plowed farming soil",
+    "cultivated crop rows",
+    "agricultural land tracts",
+    "dry autumn fields",
+    "green wheat fields",
+    "harvested farmland parcels",
+    "rural crop plantations",
+    "fenced agricultural fields",
+    "open vegetable patches",
+    "circular irrigation crop plots"
+  ],
+  "forest": [
+    "dense tree canopy",
+    "thick woodland trees",
+    "green pine forest",
+    "coniferous tree stands",
+    "deciduous foliage woods",
+    "dense wild woods",
+    "evergreen tree clusters",
+    "natural forest vegetation",
+    "wooded parkland trees",
+    "thick forest growth"
+  ],
+  "grass": [
+    "manicured lawn turf",
+    "green grass pastures",
+    "open grassy meadows",
+    "wild grass fields",
+    "lush green lawns",
+    "pasture grass greenery",
+    "vibrant grass patches",
+    "unmanaged grazing grass",
+    "grassy park terrain",
+    "dense meadow grasses"
+  ],
+  "industry": [
+    "industrial factory compounds",
+    "warehouse roofing arrays",
+    "manufacturing plant sheds",
+    "heavy industry facility",
+    "smokestack processing plants",
+    "industrial plant yards",
+    "machinery storage yards",
+    "logistics depot structures",
+    "refinery pipe grids",
+    "industrial facility complexes"
+  ],
+  "parking": [
+    "asphalt parking spaces",
+    "parked vehicle rows",
+    "striped car park bays",
+    "outdoor parking slots",
+    "commercial vehicle lot",
+    "empty painted parking spots",
+    "concrete parking grids",
+    "shopping center car parks",
+    "congested vehicle parking lines",
+    "open-air car park rows"
+  ],
+  "resident": [
+    "residential housing blocks",
+    "suburban family homes",
+    "neighborhood housing tracts",
+    "apartment community buildings",
+    "detached housing units",
+    "suburban lifestyle housing",
+    "congested urban rooftops",
+    "residential property plots",
+    "two-story family houses",
+    "domestic housing estates"
+  ],
+  "river": [
+    "winding river stream",
+    "flowing river water",
+    "riverbank green vegetation",
+    "natural blue waterway",
+    "meandering stream channels",
+    "river delta mudbanks",
+    "freshwater river paths",
+    "wide river channels",
+    "river current flow",
+    "forested river borders"
+  ]
+}

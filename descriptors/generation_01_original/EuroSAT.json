@@ -1,0 +1,122 @@
+{
+  "annualcrop": [
+    "soybean crops",
+    "corn fields",
+    "wheat fields",
+    "rapeseed field",
+    "sunflower plantation",
+    "barley fields",
+    "rye crops",
+    "cotton crops",
+    "harvested crop field",
+    "cultivated annual fields"
+  ],
+  "forest": [
+    "dense tree canopy",
+    "coniferous evergreen trees",
+    "deciduous forest trees",
+    "pine tree clusters",
+    "dense broadleaf woodland",
+    "mixed forest canopy",
+    "thick wild woods",
+    "spruce tree stands",
+    "natural wooded forest",
+    "dense jungle foliage"
+  ],
+  "herbaceousvegetation": [
+    "wild grass meadow",
+    "herbaceous green vegetation",
+    "grassy prairie weeds",
+    "unmanaged grassland pastures",
+    "vibrant savanna grasses",
+    "dense wild grass",
+    "grassy marsh flora",
+    "green steppe vegetation",
+    "overgrown weeds patch",
+    "natural grassland landscape"
+  ],
+  "highway": [
+    "multi-lane asphalt road",
+    "freeway traffic lanes",
+    "interstate overpass span",
+    "highway road dividers",
+    "concrete expressway route",
+    "divided motorway highway",
+    "speeding traffic highway",
+    "rural highway stretch",
+    "main road asphalt",
+    "expressway traffic lanes"
+  ],
+  "industrial": [
+    "industrial factory buildings",
+    "warehouse roofing blocks",
+    "manufacturing plant site",
+    "smokestack processing complexes",
+    "industrial logistics depots",
+    "heavy industry plants",
+    "commercial storage warehouses",
+    "factory hangar compounds",
+    "processing facility yards",
+    "industrial refinery zones"
+  ],
+  "pasture": [
+    "manicured grazing lawns",
+    "green cattle pastures",
+    "fenced livestock meadow",
+    "open dairy farm grass",
+    "managed grazing fields",
+    "vibrant pasture greenery",
+    "rural grazing paddock",
+    "lush pasture landscape",
+    "fenced horse pasture",
+    "cultivated grass pasture"
+  ],
+  "permanentcrop": [
+    "fruit orchard trees",
+    "vineyard grape rows",
+    "olive tree plantations",
+    "citrus tree groves",
+    "nut tree orchard",
+    "coffee shrub plantation",
+    "palm tree orchards",
+    "perennial fruit crops",
+    "berry bush fields",
+    "organized vineyard grid"
+  ],
+  "residential": [
+    "suburban house blocks",
+    "dense neighborhood properties",
+    "residential building units",
+    "urban housing development",
+    "family apartment complexes",
+    "suburban cul-de-sac homes",
+    "townhouse roof clusters",
+    "domestic residential streets",
+    "residential neighborhood tracts",
+    "city apartment blocks"
+  ],
+  "river": [
+    "winding river stream",
+    "flowing river water",
+    "riverbank green vegetation",
+    "natural blue waterway",
+    "meandering stream channels",
+    "river delta paths",
+    "freshwater river line",
+    "wide river channels",
+    "river current flows",
+    "vegetated river borders"
+  ],
+  "sealake": [
+    "deep lake reservoir",
+    "open sea water",
+    "oceanic water body",
+    "tranquil lake surface",
+    "coastal sea water",
+    "natural blue lake",
+    "inland lake water",
+    "deep ocean expanse",
+    "still water reservoir",
+    "marine sea basin"
+  ]
+}
