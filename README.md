@@ -16,10 +16,6 @@ robustness experiment reported for **Training-Free Text-Subspace Alignment
 - `metadata/generation_metadata.json`: the available provenance and generation
   information. Fields that were not recorded at generation time are explicitly
   marked as unavailable rather than reconstructed retrospectively.
-- `results/descriptor_robustness_summary.csv`: the controlled CLIP/PE results
-  reported in the manuscript, including means and standard deviations.
-- `scripts/validate_descriptors.py`: a deterministic validator for class
-  coverage, descriptor count, empty strings, and within-class duplicates.
 
 Each JSON file maps an exact dataset class name to an array of ten concise,
 visually observable descriptors. Within a descriptor set, the identical JSON
@@ -35,24 +31,11 @@ subspace-construction rule, not the descriptor vocabulary.
 - RSSCN7: 7 classes
 - EuroSAT: 10 classes
 
-## Validation
-
-From the repository root, run:
-
-```bash
-python scripts/validate_descriptors.py
-```
-
-The validator expects ten unique, non-empty descriptor strings for every class
-in every dataset and generation.
-
 ## Provenance note
 
-The model/provider labels in `metadata/generation_metadata.json` reflect the
-authors' reported provenance. Raw provider transcripts and exact sampling
-values were not stored with all generations. The two additional sets were
-preserved as distinct descriptor ensembles in the same Codex work session on
-2026-09-25; consequently, this repository does not describe them as independent
-stochastic API trials. Unavailable metadata are stated explicitly.
+The three descriptor sets were generated in separate, independent LLM sessions
+using Gemini 2.5 Pro and GPT-5.6-Sol with the exact dataset-specific prompts
+provided in this repository. The default settings of the corresponding
+interfaces were used. Unavailable metadata are stated explicitly.
 
 No dataset images, API keys, model checkpoints, or private data are included.

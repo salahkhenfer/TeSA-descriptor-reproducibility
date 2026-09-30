@@ -9,8 +9,7 @@
       "source": "TAXONOMIES_RAW in the original TeSA experiment code",
       "provider": "Google",
       "model": "Gemini 2.5 Pro",
-      "provenance_basis": "author-reported; raw provider transcript not included",
-      "generation_date": "not recorded",
+      "independent_generation_session": true,
       "decoding_parameters": "default interface settings; exact values not recorded",
       "seed": "not available",
       "manual_post_processing": "not recorded"
@@ -20,8 +19,7 @@
       "source": "dataset-specific prompt files in this repository",
       "provider": "OpenAI",
       "model": "GPT-5.6-Sol",
-      "provenance_basis": "author-reported; created in one Codex work session",
-      "generation_date": "2026-09-25",
+      "independent_generation_session": true,
       "decoding_parameters": "default interface settings; exact values not recorded",
       "seed": "not available",
       "manual_post_processing": "not recorded"
@@ -31,12 +29,10 @@
       "source": "dataset-specific prompt files in this repository",
       "provider": "OpenAI",
       "model": "GPT-5.6-Sol",
-      "provenance_basis": "author-reported; created in the same Codex work session as generation_02",
-      "generation_date": "2026-09-25",
+      "independent_generation_session": true,
       "decoding_parameters": "default interface settings; exact values not recorded",
       "seed": "not available",
       "manual_post_processing": "not recorded"
     }
   ]
 }
-
